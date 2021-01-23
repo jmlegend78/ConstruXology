@@ -1,0 +1,150 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+body {
+background-color: #edf0f5;
+}
+header {
+	background: #b1e3fa;
+	height: 82px;
+	border-bottom: 1px solid #133783;
+}
+.header-block{
+	width: 992px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+.logo{
+	width: 60%;
+	margin-top: -75px;
+
+}
+
+.logo p{width: 900px; height: 50px;text-align: center;font-style: italic; font-family: Arial Black;
+		 font-size: 70px; font-weight: bold; float: center; padding-top: 40px; color: #007cc6; margin-left: 33px;}
+		 .logo a{text-decoration-line: none;color:#007cc6; }
+.header-block label{
+	color: #fff;
+}
+
+.clearfix{
+	clear: both;
+}
+.content-block{
+	width: 992px;
+	margin: 0 auto;
+}
+
+
+.create-account{
+	width: 41%;
+	float: center;
+}
+.create-account h2{
+	font-family: Calibri;
+	font-weight: bold;
+	font-size: 38px;
+	color: #333333;
+}
+.create-account p{
+	font-family:Calibri;
+	font-size: 20px;
+	color: #333333;
+	padding-bottom: 20px;
+}
+
+.account label{
+	font-family:Calibri;
+	color: #90949c;
+	font-size: 18px;
+	font-weight: bold;
+}
+.flname input {
+	margin-right: 6px;
+	height: 40px;
+	width: 190px;
+	border: 1px solid #bdc7d8;
+	border-radius: 5px;
+	font-size: 20px;
+	color: #999999;
+}
+.book_num input{
+margin-top: 10px;
+		height: 40px;
+	width: 392px;
+	border: 1px solid #bdc7d8;
+	border-radius: 5px;
+	font-size: 20px;
+	color: #999999;
+}
+.book_title input{
+margin-top: 10px;
+	height: 40px;
+	width: 392px;
+	border: 1px solid #bdc7d8;
+	border-radius: 5px;
+	font-size: 20px;
+	color: #999999;
+}
+.book_desc input{
+margin-top: 10px;
+	height: 40px;
+	width: 392px;
+	border: 1px solid #bdc7d8;
+	border-radius: 5px;
+	font-size: 20px;
+	color: #999999;
+}
+
+.book_price input {
+	margin-right: 6px;
+	height: 40px;
+	width: 190px;
+	border: 1px solid #bdc7d8;
+	border-radius: 5px;
+	font-size: 20px;
+	color: #999999;
+	text-align: center;
+}
+.pub_name input{
+margin-top: 10px;
+	height: 40px;
+	width: 392px;
+	border: 1px solid #bdc7d8;
+	border-radius: 5px;
+	font-size: 20px;
+	color: #999999;
+}
+
+
+
+}
+.date_publ select{
+	margin-top: 6px;
+	margin-bottom: 10px;
+	margin-right: -6px;
+	border: 1px solid #bdc7d8;
+	height: 30px;
+	width: 72px;
+}
+
+.signup button{
+height: 40px;
+width: 208px;
+background: #007cc6;
+border: 1px solid #3b6e22;
+border-radius: 4px;
+font-size: 22px;
+color: #ffffff;
+font-family: Calibri;
+}
+.signup {
+	margin-top: 10px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid #dddfe2;}
+	.back button{
+		width: 60px; height: 30px;
+	}
+	.btnEdit a{text-decoration-line: none;color: white;}
+		 .btnEdit {background-color: #007cc6;border: 3px solid #5BBBB3; float: left;margin-top: -505px; }

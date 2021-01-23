@@ -1,0 +1,113 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+body {
+background-color: #edf0f5;
+}
+header {
+	background: #b1e3fa;
+	height: 82px;
+	border-bottom: 1px solid #133783;
+}
+.header-block{
+	width: 992px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+.logo{
+	width: 60%;
+	float: left;
+}
+.fblogin{
+	width: 40%;
+	float: left;
+
+}
+.logo{
+	width: 60%;
+	margin-top: -75px;
+}
+
+.logo p{width: 900px; height: 50px;text-align: center;font-style: italic; font-family: Arial Black;
+		 font-size: 70px; font-weight: bold; float: center; padding-top: 40px; color: #007cc6;}
+		 .logo a{text-decoration-line: none;color:#007cc6; }
+.header-block label{
+	color: #fff;
+}
+.email {
+	float: left;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.email label{
+	color: black;
+	padding-bottom: 10px;
+		font-size: 15px;
+	font-family: Calibri;
+}
+.email input[type="text"] {
+height: 20px;
+width: 150px;
+border: 1px solid #1d2a5b;
+}
+.password{
+	
+	float: right;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+.password input[type="password"] {
+height: 20px;
+width: 150px;
+border: 1px solid #1d2a5b;
+} 
+.password a{
+	color: #8fb1d8;
+	text-decoration: none;
+}
+.password label{
+	color: black;
+	padding-bottom: 10px;
+			font-size: 15px;
+	font-family: Calibri;
+}
+.loginbutton {
+	float: center;
+	margin-top: 120px;
+	
+}
+.loginbutton a{
+	text-decoration-line: none;
+	font-style: bold;
+	color: #fff;
+}
+.loginbutton button{
+	background: #007cc6;
+	border: 1px solid #29487d;
+	border-radius: 2px;
+	height: 50px;
+	width: 150px;
+}
+.clearfix{
+	clear: both;
+}
+.content-block{
+	width: 992px;
+	margin: 0 auto;
+}
+	.frmbody{
+		color: #283332;
+        font-size: 27px;
+        text-align: center;
+        letter-spacing: 0.1em;
+        border:5px solid #5BBBB3;
+        width: 400px;
+        height: 250px;
+        margin-left: -340px;
+        
+        margin-top: 80px;
+	    border-bottom-left-radius: 30px;
+	    border-top-right-radius: 30px;
+	    background-color: #A0DAC0;
+	}

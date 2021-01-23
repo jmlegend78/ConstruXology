@@ -1,0 +1,50 @@
+.buttonup button{
+		margin-top: 5px;
+		border-radius: 6px;
+		background-color: #05CB29;
+
+	}
+	body{
+		background-color: grey;
+	}
+	.frmbody{
+		color: #283332;
+        font-size: 27px;
+        text-align: center;
+        letter-spacing: 0.1em;
+        border:5px solid #5BBBB3;
+        width: 400px;
+        height: 750px;
+        margin-left: 250px;
+        margin-top: 80px;
+	    border-bottom-left-radius: 30px;
+	    border-top-right-radius: 30px;
+	    background-color: #A0DAC0;
+	}
+	*{
+padding: 0px;
+margin: 0px;
+}
+body {
+background-color: #edf0f5;
+}
+header {
+	background: #b1e3fa;
+	height: 82px;
+	border-bottom: 1px solid #133783;
+}
+.headerblock{
+	width: 992px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+.logo{
+	width: 60%;
+	margin-top: -75px;
+}
+
+.logo p{width: 900px; height: 50px;text-align: center;font-style: italic; font-family: Arial Black;
+		 font-size: 70px; font-weight: bold; float: center; padding-top: 40px; color: #007cc6;}
+		 .logo a{text-decoration-line: none;color:#007cc6; }
+		 .btnBack a{text-decoration-line: none;color: white;}
+		 .btnBack {width: 60px;height: 30px;background-color: #007cc6;border: 3px solid #5BBBB3;}
